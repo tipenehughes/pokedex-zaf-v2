@@ -24,13 +24,13 @@ Primary requirements:
 -   Custom API containing required data.
 -   Functionality to populate data from app to tickets.
 
-#### To run locally:
+## To run locally:
 
 -   npm install
 -   npm run watch
 -   zcli apps:server ./dist
 
-#### To package for install:
+## To package for install:
 
 -   npm run build
 -   zcli apps:package ./dist
