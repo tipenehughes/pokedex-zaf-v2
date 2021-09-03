@@ -26,6 +26,34 @@ module.exports = {
                     presets: ["@babel/preset-env", "@babel/preset-react"],
                 },
             },
+            {
+                test: /\.(s*)css$/,
+                use: [
+                    {
+                        loader: "style-loader", // Creates style nodes from JS strings.
+                    },
+                    {
+                        loader: "css-loader", // Translates CSS into CommonJS.
+                        options: {
+                            sourceMap: true,
+                        },
+                    },
+                    {
+                        loader: "sass-loader", // Compiles Sass to CSS.
+                        options: {
+                            sourceMap: true,
+                        },
+                    },
+                ],
+            },
+            {
+                test: /\.svg$/,
+                loader: "svg-inline-loader",
+            },
+            {
+                test: /\.(png|svg|jpg|jpeg|gif)$/i,
+                type: "asset/resource",
+            },
         ],
     },
     // add a custom iframe.html as the template

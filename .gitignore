@@ -1,1 +1,9 @@
-node_modules/
+node_modules
+.vscode
+
+# Build files.
+dist/tmp/
+dist/assets/*.html
+dist/assets/bundle.js
+dist/assets/bundle.js.LICENSE.txt
+webpack-stats.json

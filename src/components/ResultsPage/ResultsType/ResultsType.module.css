@@ -1,0 +1,32 @@
+.container {
+    background-color: #ff1112;
+    height: 300px;
+    width: 320px;
+    padding: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #525252;
+}
+
+.tableContainer {
+    display: block;
+    height: 90%;
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.typeTableRow {
+    background-color: #fff;
+    width: 100%;
+    height: 25px;
+    cursor: pointer;
+}
+
+.typeTableData {
+    width: 100%;
+    padding: 5px;
+    border: 2px solid #bcbbbb;
+    border-radius: 5px;
+}

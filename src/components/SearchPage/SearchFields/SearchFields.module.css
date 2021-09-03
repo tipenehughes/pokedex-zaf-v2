@@ -1,0 +1,54 @@
+.label {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.searchFields {
+    height: 80%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 5px;
+}
+
+.searchFields .form {
+    width: 100%;
+}
+
+.searchFields .form .input {
+    width: 100%;
+    height: 40px;
+    margin: 7px 0;
+    padding-left: 7px;
+    border: none;
+    border-radius: 7px;
+}
+
+.input[value] {
+    color: #7e7e7e;
+}
+
+.input[value]:last-of-type {
+    color: #37309a;
+    /* cursor: pointer; */
+}
+
+.secondaryInputs {
+    display: flex;
+}
+
+
+.submitBtn{    
+    cursor: pointer;
+    background-color: #ffcb05;
+    font-weight: 600;
+    font-size: 1.2rem;
+}

@@ -1,0 +1,37 @@
+.main {
+    background-color: #ff1112;
+    height: 300px;
+    width: 320px;
+    display: grid;
+    place-items: center;
+}
+
+.container {
+    width: 95%;
+    height: 95%;
+    border: 3px solid #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.errorMessage {
+    text-align: center;
+    color: #fff;
+    margin-bottom: 20px;
+    padding: 5px;
+    font-size: 1rem;
+}
+
+.btn {
+    color: #37309a;
+    background-color: #ffcb05;
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-right: 2px;
+}

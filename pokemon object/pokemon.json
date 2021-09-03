@@ -1,0 +1,2724 @@
+{
+    "type": "resources",
+    "action": "post",
+    "data": [
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "bulbasaur",
+          "index": "1",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg",
+          "elementalType_1": "grass",
+          "elementalType_2": "poison",
+          "evolution_1": "bulbasaur",
+          "evolution_2": "ivysaur",
+          "evolution_3": "venusaur",
+          "height": "7",
+          "weight": "69",
+          "cost": "705",
+          "shipping": "54",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "ivysaur",
+          "index": "2",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/2.svg",
+          "elementalType_1": "grass",
+          "elementalType_2": "poison",
+          "evolution_1": "bulbasaur",
+          "evolution_2": "ivysaur",
+          "evolution_3": "venusaur",
+          "height": "10",
+          "weight": "130",
+          "cost": "915",
+          "shipping": "64",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "venusaur",
+          "index": "3",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/3.svg",
+          "elementalType_1": "grass",
+          "elementalType_2": "poison",
+          "evolution_1": "bulbasaur",
+          "evolution_2": "ivysaur",
+          "evolution_3": "venusaur",
+          "height": "20",
+          "weight": "1000",
+          "cost": "608",
+          "shipping": "51",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "charmander",
+          "index": "4",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/4.svg",
+          "elementalType_1": "fire",
+          "elementalType_2": "",
+          "evolution_1": "charmander",
+          "evolution_2": "charmeleon",
+          "evolution_3": "charizard",
+          "height": "6",
+          "weight": "85",
+          "cost": "580",
+          "shipping": "52",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "charmeleon",
+          "index": "5",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/5.svg",
+          "elementalType_1": "fire",
+          "elementalType_2": "",
+          "evolution_1": "charmander",
+          "evolution_2": "charmeleon",
+          "evolution_3": "charizard",
+          "height": "11",
+          "weight": "190",
+          "cost": "823",
+          "shipping": "69",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "charizard",
+          "index": "6",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/6.svg",
+          "elementalType_1": "fire",
+          "elementalType_2": "flying",
+          "evolution_1": "charmander",
+          "evolution_2": "charmeleon",
+          "evolution_3": "charizard",
+          "height": "17",
+          "weight": "905",
+          "cost": "813",
+          "shipping": "54",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "squirtle",
+          "index": "7",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/7.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "squirtle",
+          "evolution_2": "wartortle",
+          "evolution_3": "blastoise",
+          "height": "5",
+          "weight": "90",
+          "cost": "727",
+          "shipping": "64",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "wartortle",
+          "index": "8",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/8.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "squirtle",
+          "evolution_2": "wartortle",
+          "evolution_3": "blastoise",
+          "height": "10",
+          "weight": "225",
+          "cost": "558",
+          "shipping": "60",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "blastoise",
+          "index": "9",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/9.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "squirtle",
+          "evolution_2": "wartortle",
+          "evolution_3": "blastoise",
+          "height": "16",
+          "weight": "855",
+          "cost": "904",
+          "shipping": "55",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "caterpie",
+          "index": "10",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/10.svg",
+          "elementalType_1": "bug",
+          "elementalType_2": "",
+          "evolution_1": "caterpie",
+          "evolution_2": "metapod",
+          "evolution_3": "butterfree",
+          "height": "3",
+          "weight": "29",
+          "cost": "595",
+          "shipping": "57",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "metapod",
+          "index": "11",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/11.svg",
+          "elementalType_1": "bug",
+          "elementalType_2": "",
+          "evolution_1": "caterpie",
+          "evolution_2": "metapod",
+          "evolution_3": "butterfree",
+          "height": "7",
+          "weight": "99",
+          "cost": "882",
+          "shipping": "63",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "butterfree",
+          "index": "12",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/12.svg",
+          "elementalType_1": "bug",
+          "elementalType_2": "flying",
+          "evolution_1": "caterpie",
+          "evolution_2": "metapod",
+          "evolution_3": "butterfree",
+          "height": "11",
+          "weight": "320",
+          "cost": "662",
+          "shipping": "53",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "weedle",
+          "index": "13",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/13.svg",
+          "elementalType_1": "bug",
+          "elementalType_2": "poison",
+          "evolution_1": "weedle",
+          "evolution_2": "kakuna",
+          "evolution_3": "beedrill",
+          "height": "3",
+          "weight": "32",
+          "cost": "873",
+          "shipping": "65",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "kakuna",
+          "index": "14",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/14.svg",
+          "elementalType_1": "bug",
+          "elementalType_2": "poison",
+          "evolution_1": "weedle",
+          "evolution_2": "kakuna",
+          "evolution_3": "beedrill",
+          "height": "6",
+          "weight": "100",
+          "cost": "834",
+          "shipping": "52",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "beedrill",
+          "index": "15",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/15.svg",
+          "elementalType_1": "bug",
+          "elementalType_2": "poison",
+          "evolution_1": "weedle",
+          "evolution_2": "kakuna",
+          "evolution_3": "beedrill",
+          "height": "10",
+          "weight": "295",
+          "cost": "844",
+          "shipping": "59",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "pidgey",
+          "index": "16",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/16.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "flying",
+          "evolution_1": "pidgey",
+          "evolution_2": "pidgeotto",
+          "evolution_3": "pidgeot",
+          "height": "3",
+          "weight": "18",
+          "cost": "705",
+          "shipping": "50",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "pidgeotto",
+          "index": "17",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/17.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "flying",
+          "evolution_1": "pidgey",
+          "evolution_2": "pidgeotto",
+          "evolution_3": "pidgeot",
+          "height": "11",
+          "weight": "300",
+          "cost": "910",
+          "shipping": "57",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "pidgeot",
+          "index": "18",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/18.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "flying",
+          "evolution_1": "pidgey",
+          "evolution_2": "pidgeotto",
+          "evolution_3": "pidgeot",
+          "height": "15",
+          "weight": "395",
+          "cost": "921",
+          "shipping": "67",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "rattata",
+          "index": "19",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/19.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "",
+          "evolution_1": "rattata",
+          "evolution_2": "raticate",
+          "evolution_3": "",
+          "height": "3",
+          "weight": "35",
+          "cost": "611",
+          "shipping": "63",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "raticate",
+          "index": "20",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/20.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "",
+          "evolution_1": "rattata",
+          "evolution_2": "raticate",
+          "evolution_3": "",
+          "height": "7",
+          "weight": "185",
+          "cost": "918",
+          "shipping": "51",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "spearow",
+          "index": "21",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/21.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "flying",
+          "evolution_1": "spearow",
+          "evolution_2": "fearow",
+          "evolution_3": "",
+          "height": "3",
+          "weight": "20",
+          "cost": "627",
+          "shipping": "62",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "fearow",
+          "index": "22",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/22.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "flying",
+          "evolution_1": "spearow",
+          "evolution_2": "fearow",
+          "evolution_3": "",
+          "height": "12",
+          "weight": "380",
+          "cost": "701",
+          "shipping": "53",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "ekans",
+          "index": "23",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/23.svg",
+          "elementalType_1": "poison",
+          "elementalType_2": "",
+          "evolution_1": "ekans",
+          "evolution_2": "arbok",
+          "evolution_3": "",
+          "height": "20",
+          "weight": "69",
+          "cost": "513",
+          "shipping": "61",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "arbok",
+          "index": "24",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/24.svg",
+          "elementalType_1": "poison",
+          "elementalType_2": "",
+          "evolution_1": "ekans",
+          "evolution_2": "arbok",
+          "evolution_3": "",
+          "height": "35",
+          "weight": "650",
+          "cost": "897",
+          "shipping": "54",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "pikachu",
+          "index": "25",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/25.svg",
+          "elementalType_1": "electric",
+          "elementalType_2": "",
+          "evolution_1": "pichu",
+          "evolution_2": "pikachu",
+          "evolution_3": "raichu",
+          "height": "4",
+          "weight": "60",
+          "cost": "600",
+          "shipping": "60",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "raichu",
+          "index": "26",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/26.svg",
+          "elementalType_1": "electric",
+          "elementalType_2": "",
+          "evolution_1": "pichu",
+          "evolution_2": "pikachu",
+          "evolution_3": "raichu",
+          "height": "8",
+          "weight": "300",
+          "cost": "802",
+          "shipping": "52",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "sandshrew",
+          "index": "27",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/27.svg",
+          "elementalType_1": "ground",
+          "elementalType_2": "",
+          "evolution_1": "sandshrew",
+          "evolution_2": "sandslash",
+          "evolution_3": "",
+          "height": "6",
+          "weight": "120",
+          "cost": "906",
+          "shipping": "54",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "sandslash",
+          "index": "28",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/28.svg",
+          "elementalType_1": "ground",
+          "elementalType_2": "",
+          "evolution_1": "sandshrew",
+          "evolution_2": "sandslash",
+          "evolution_3": "",
+          "height": "10",
+          "weight": "295",
+          "cost": "619",
+          "shipping": "63",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "nidoran-f",
+          "index": "29",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/29.svg",
+          "elementalType_1": "poison",
+          "elementalType_2": "",
+          "evolution_1": "nidoran-f",
+          "evolution_2": "nidorina",
+          "evolution_3": "nidoqueen",
+          "height": "4",
+          "weight": "70",
+          "cost": "931",
+          "shipping": "52",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "nidorina",
+          "index": "30",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/30.svg",
+          "elementalType_1": "poison",
+          "elementalType_2": "",
+          "evolution_1": "nidoran-f",
+          "evolution_2": "nidorina",
+          "evolution_3": "nidoqueen",
+          "height": "8",
+          "weight": "200",
+          "cost": "549",
+          "shipping": "55",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "nidoqueen",
+          "index": "31",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/31.svg",
+          "elementalType_1": "poison",
+          "elementalType_2": "ground",
+          "evolution_1": "nidoran-f",
+          "evolution_2": "nidorina",
+          "evolution_3": "nidoqueen",
+          "height": "13",
+          "weight": "600",
+          "cost": "524",
+          "shipping": "52",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "nidoran-m",
+          "index": "32",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/32.svg",
+          "elementalType_1": "poison",
+          "elementalType_2": "",
+          "evolution_1": "nidoran-m",
+          "evolution_2": "nidorino",
+          "evolution_3": "nidoking",
+          "height": "5",
+          "weight": "90",
+          "cost": "891",
+          "shipping": "68",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "nidorino",
+          "index": "33",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/33.svg",
+          "elementalType_1": "poison",
+          "elementalType_2": "",
+          "evolution_1": "nidoran-m",
+          "evolution_2": "nidorino",
+          "evolution_3": "nidoking",
+          "height": "9",
+          "weight": "195",
+          "cost": "678",
+          "shipping": "54",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "nidoking",
+          "index": "34",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/34.svg",
+          "elementalType_1": "poison",
+          "elementalType_2": "ground",
+          "evolution_1": "nidoran-m",
+          "evolution_2": "nidorino",
+          "evolution_3": "nidoking",
+          "height": "14",
+          "weight": "620",
+          "cost": "731",
+          "shipping": "59",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "clefairy",
+          "index": "35",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/35.svg",
+          "elementalType_1": "fairy",
+          "elementalType_2": "",
+          "evolution_1": "cleffa",
+          "evolution_2": "clefairy",
+          "evolution_3": "clefable",
+          "height": "6",
+          "weight": "75",
+          "cost": "667",
+          "shipping": "53",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "clefable",
+          "index": "36",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/36.svg",
+          "elementalType_1": "fairy",
+          "elementalType_2": "",
+          "evolution_1": "cleffa",
+          "evolution_2": "clefairy",
+          "evolution_3": "clefable",
+          "height": "13",
+          "weight": "400",
+          "cost": "600",
+          "shipping": "63",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "vulpix",
+          "index": "37",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/37.svg",
+          "elementalType_1": "fire",
+          "elementalType_2": "",
+          "evolution_1": "vulpix",
+          "evolution_2": "ninetales",
+          "evolution_3": "",
+          "height": "6",
+          "weight": "99",
+          "cost": "653",
+          "shipping": "54",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "ninetales",
+          "index": "38",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/38.svg",
+          "elementalType_1": "fire",
+          "elementalType_2": "",
+          "evolution_1": "vulpix",
+          "evolution_2": "ninetales",
+          "evolution_3": "",
+          "height": "11",
+          "weight": "199",
+          "cost": "960",
+          "shipping": "51",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "jigglypuff",
+          "index": "39",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/39.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "fairy",
+          "evolution_1": "igglybuff",
+          "evolution_2": "jigglypuff",
+          "evolution_3": "wigglytuff",
+          "height": "5",
+          "weight": "55",
+          "cost": "847",
+          "shipping": "67",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "wigglytuff",
+          "index": "40",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/40.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "fairy",
+          "evolution_1": "igglybuff",
+          "evolution_2": "jigglypuff",
+          "evolution_3": "wigglytuff",
+          "height": "10",
+          "weight": "120",
+          "cost": "571",
+          "shipping": "67",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "zubat",
+          "index": "41",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/41.svg",
+          "elementalType_1": "poison",
+          "elementalType_2": "flying",
+          "evolution_1": "zubat",
+          "evolution_2": "golbat",
+          "evolution_3": "crobat",
+          "height": "8",
+          "weight": "75",
+          "cost": "832",
+          "shipping": "69",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "golbat",
+          "index": "42",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/42.svg",
+          "elementalType_1": "poison",
+          "elementalType_2": "flying",
+          "evolution_1": "zubat",
+          "evolution_2": "golbat",
+          "evolution_3": "crobat",
+          "height": "16",
+          "weight": "550",
+          "cost": "638",
+          "shipping": "51",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "oddish",
+          "index": "43",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/43.svg",
+          "elementalType_1": "grass",
+          "elementalType_2": "poison",
+          "evolution_1": "oddish",
+          "evolution_2": "gloom",
+          "evolution_3": "vileplume",
+          "height": "5",
+          "weight": "54",
+          "cost": "619",
+          "shipping": "67",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "gloom",
+          "index": "44",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/44.svg",
+          "elementalType_1": "grass",
+          "elementalType_2": "poison",
+          "evolution_1": "oddish",
+          "evolution_2": "gloom",
+          "evolution_3": "vileplume",
+          "height": "8",
+          "weight": "86",
+          "cost": "889",
+          "shipping": "68",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "vileplume",
+          "index": "45",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/45.svg",
+          "elementalType_1": "grass",
+          "elementalType_2": "poison",
+          "evolution_1": "oddish",
+          "evolution_2": "gloom",
+          "evolution_3": "vileplume",
+          "height": "12",
+          "weight": "186",
+          "cost": "539",
+          "shipping": "61",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "paras",
+          "index": "46",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/46.svg",
+          "elementalType_1": "bug",
+          "elementalType_2": "grass",
+          "evolution_1": "paras",
+          "evolution_2": "parasect",
+          "evolution_3": "",
+          "height": "3",
+          "weight": "54",
+          "cost": "568",
+          "shipping": "61",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "parasect",
+          "index": "47",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/47.svg",
+          "elementalType_1": "bug",
+          "elementalType_2": "grass",
+          "evolution_1": "paras",
+          "evolution_2": "parasect",
+          "evolution_3": "",
+          "height": "10",
+          "weight": "295",
+          "cost": "951",
+          "shipping": "65",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "venonat",
+          "index": "48",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/48.svg",
+          "elementalType_1": "bug",
+          "elementalType_2": "poison",
+          "evolution_1": "venonat",
+          "evolution_2": "venomoth",
+          "evolution_3": "",
+          "height": "10",
+          "weight": "300",
+          "cost": "683",
+          "shipping": "51",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "venomoth",
+          "index": "49",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/49.svg",
+          "elementalType_1": "bug",
+          "elementalType_2": "poison",
+          "evolution_1": "venonat",
+          "evolution_2": "venomoth",
+          "evolution_3": "",
+          "height": "15",
+          "weight": "125",
+          "cost": "605",
+          "shipping": "60",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "diglett",
+          "index": "50",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/50.svg",
+          "elementalType_1": "ground",
+          "elementalType_2": "",
+          "evolution_1": "diglett",
+          "evolution_2": "dugtrio",
+          "evolution_3": "",
+          "height": "2",
+          "weight": "8",
+          "cost": "675",
+          "shipping": "52",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "dugtrio",
+          "index": "51",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/51.svg",
+          "elementalType_1": "ground",
+          "elementalType_2": "",
+          "evolution_1": "diglett",
+          "evolution_2": "dugtrio",
+          "evolution_3": "",
+          "height": "7",
+          "weight": "333",
+          "cost": "973",
+          "shipping": "65",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "meowth",
+          "index": "52",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/52.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "",
+          "evolution_1": "meowth",
+          "evolution_2": "persian",
+          "evolution_3": "",
+          "height": "4",
+          "weight": "42",
+          "cost": "501",
+          "shipping": "66",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "persian",
+          "index": "53",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/53.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "",
+          "evolution_1": "meowth",
+          "evolution_2": "persian",
+          "evolution_3": "",
+          "height": "10",
+          "weight": "320",
+          "cost": "516",
+          "shipping": "65",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "psyduck",
+          "index": "54",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/54.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "psyduck",
+          "evolution_2": "golduck",
+          "evolution_3": "",
+          "height": "8",
+          "weight": "196",
+          "cost": "967",
+          "shipping": "52",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "golduck",
+          "index": "55",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/55.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "psyduck",
+          "evolution_2": "golduck",
+          "evolution_3": "",
+          "height": "17",
+          "weight": "766",
+          "cost": "915",
+          "shipping": "53",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "mankey",
+          "index": "56",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/56.svg",
+          "elementalType_1": "fighting",
+          "elementalType_2": "",
+          "evolution_1": "mankey",
+          "evolution_2": "primeape",
+          "evolution_3": "",
+          "height": "5",
+          "weight": "280",
+          "cost": "773",
+          "shipping": "59",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "primeape",
+          "index": "57",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/57.svg",
+          "elementalType_1": "fighting",
+          "elementalType_2": "",
+          "evolution_1": "mankey",
+          "evolution_2": "primeape",
+          "evolution_3": "",
+          "height": "10",
+          "weight": "320",
+          "cost": "690",
+          "shipping": "52",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "growlithe",
+          "index": "58",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/58.svg",
+          "elementalType_1": "fire",
+          "elementalType_2": "",
+          "evolution_1": "growlithe",
+          "evolution_2": "arcanine",
+          "evolution_3": "",
+          "height": "7",
+          "weight": "190",
+          "cost": "747",
+          "shipping": "61",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "arcanine",
+          "index": "59",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/59.svg",
+          "elementalType_1": "fire",
+          "elementalType_2": "",
+          "evolution_1": "growlithe",
+          "evolution_2": "arcanine",
+          "evolution_3": "",
+          "height": "19",
+          "weight": "1550",
+          "cost": "514",
+          "shipping": "66",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "poliwag",
+          "index": "60",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/60.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "poliwag",
+          "evolution_2": "poliwhirl",
+          "evolution_3": "poliwrath",
+          "height": "6",
+          "weight": "124",
+          "cost": "963",
+          "shipping": "63",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "poliwhirl",
+          "index": "61",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/61.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "poliwag",
+          "evolution_2": "poliwhirl",
+          "evolution_3": "poliwrath",
+          "height": "10",
+          "weight": "200",
+          "cost": "588",
+          "shipping": "51",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "poliwrath",
+          "index": "62",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/62.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "fighting",
+          "evolution_1": "poliwag",
+          "evolution_2": "poliwhirl",
+          "evolution_3": "poliwrath",
+          "height": "13",
+          "weight": "540",
+          "cost": "994",
+          "shipping": "54",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "abra",
+          "index": "63",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/63.svg",
+          "elementalType_1": "psychic",
+          "elementalType_2": "",
+          "evolution_1": "abra",
+          "evolution_2": "kadabra",
+          "evolution_3": "alakazam",
+          "height": "9",
+          "weight": "195",
+          "cost": "577",
+          "shipping": "55",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "kadabra",
+          "index": "64",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/64.svg",
+          "elementalType_1": "psychic",
+          "elementalType_2": "",
+          "evolution_1": "abra",
+          "evolution_2": "kadabra",
+          "evolution_3": "alakazam",
+          "height": "13",
+          "weight": "565",
+          "cost": "582",
+          "shipping": "66",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "alakazam",
+          "index": "65",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/65.svg",
+          "elementalType_1": "psychic",
+          "elementalType_2": "",
+          "evolution_1": "abra",
+          "evolution_2": "kadabra",
+          "evolution_3": "alakazam",
+          "height": "15",
+          "weight": "480",
+          "cost": "556",
+          "shipping": "61",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "machop",
+          "index": "66",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/66.svg",
+          "elementalType_1": "fighting",
+          "elementalType_2": "",
+          "evolution_1": "machop",
+          "evolution_2": "machoke",
+          "evolution_3": "machamp",
+          "height": "8",
+          "weight": "195",
+          "cost": "633",
+          "shipping": "60",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "machoke",
+          "index": "67",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/67.svg",
+          "elementalType_1": "fighting",
+          "elementalType_2": "",
+          "evolution_1": "machop",
+          "evolution_2": "machoke",
+          "evolution_3": "machamp",
+          "height": "15",
+          "weight": "705",
+          "cost": "544",
+          "shipping": "66",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "machamp",
+          "index": "68",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/68.svg",
+          "elementalType_1": "fighting",
+          "elementalType_2": "",
+          "evolution_1": "machop",
+          "evolution_2": "machoke",
+          "evolution_3": "machamp",
+          "height": "16",
+          "weight": "1300",
+          "cost": "782",
+          "shipping": "57",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "bellsprout",
+          "index": "69",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/69.svg",
+          "elementalType_1": "grass",
+          "elementalType_2": "poison",
+          "evolution_1": "bellsprout",
+          "evolution_2": "weepinbell",
+          "evolution_3": "victreebel",
+          "height": "7",
+          "weight": "40",
+          "cost": "937",
+          "shipping": "56",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "weepinbell",
+          "index": "70",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/70.svg",
+          "elementalType_1": "grass",
+          "elementalType_2": "poison",
+          "evolution_1": "bellsprout",
+          "evolution_2": "weepinbell",
+          "evolution_3": "victreebel",
+          "height": "10",
+          "weight": "64",
+          "cost": "665",
+          "shipping": "64",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "victreebel",
+          "index": "71",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/71.svg",
+          "elementalType_1": "grass",
+          "elementalType_2": "poison",
+          "evolution_1": "bellsprout",
+          "evolution_2": "weepinbell",
+          "evolution_3": "victreebel",
+          "height": "17",
+          "weight": "155",
+          "cost": "929",
+          "shipping": "69",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "tentacool",
+          "index": "72",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/72.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "poison",
+          "evolution_1": "tentacool",
+          "evolution_2": "tentacruel",
+          "evolution_3": "",
+          "height": "9",
+          "weight": "455",
+          "cost": "992",
+          "shipping": "64",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "tentacruel",
+          "index": "73",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/73.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "poison",
+          "evolution_1": "tentacool",
+          "evolution_2": "tentacruel",
+          "evolution_3": "",
+          "height": "16",
+          "weight": "550",
+          "cost": "933",
+          "shipping": "55",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "geodude",
+          "index": "74",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/74.svg",
+          "elementalType_1": "rock",
+          "elementalType_2": "ground",
+          "evolution_1": "geodude",
+          "evolution_2": "graveler",
+          "evolution_3": "golem",
+          "height": "4",
+          "weight": "200",
+          "cost": "676",
+          "shipping": "63",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "graveler",
+          "index": "75",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/75.svg",
+          "elementalType_1": "rock",
+          "elementalType_2": "ground",
+          "evolution_1": "geodude",
+          "evolution_2": "graveler",
+          "evolution_3": "golem",
+          "height": "10",
+          "weight": "1050",
+          "cost": "893",
+          "shipping": "54",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "golem",
+          "index": "76",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/76.svg",
+          "elementalType_1": "rock",
+          "elementalType_2": "ground",
+          "evolution_1": "geodude",
+          "evolution_2": "graveler",
+          "evolution_3": "golem",
+          "height": "14",
+          "weight": "3000",
+          "cost": "1000",
+          "shipping": "59",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "ponyta",
+          "index": "77",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/77.svg",
+          "elementalType_1": "fire",
+          "elementalType_2": "",
+          "evolution_1": "ponyta",
+          "evolution_2": "rapidash",
+          "evolution_3": "",
+          "height": "10",
+          "weight": "300",
+          "cost": "712",
+          "shipping": "55",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "rapidash",
+          "index": "78",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/78.svg",
+          "elementalType_1": "fire",
+          "elementalType_2": "",
+          "evolution_1": "ponyta",
+          "evolution_2": "rapidash",
+          "evolution_3": "",
+          "height": "17",
+          "weight": "950",
+          "cost": "768",
+          "shipping": "57",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "slowpoke",
+          "index": "79",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/79.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "psychic",
+          "evolution_1": "slowpoke",
+          "evolution_2": "slowbro",
+          "evolution_3": "",
+          "height": "12",
+          "weight": "360",
+          "cost": "737",
+          "shipping": "52",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "slowbro",
+          "index": "80",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/80.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "psychic",
+          "evolution_1": "slowpoke",
+          "evolution_2": "slowbro",
+          "evolution_3": "",
+          "height": "16",
+          "weight": "785",
+          "cost": "536",
+          "shipping": "62",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "magnemite",
+          "index": "81",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/81.svg",
+          "elementalType_1": "electric",
+          "elementalType_2": "steel",
+          "evolution_1": "magnemite",
+          "evolution_2": "magneton",
+          "evolution_3": "magnezone",
+          "height": "3",
+          "weight": "60",
+          "cost": "711",
+          "shipping": "56",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "magneton",
+          "index": "82",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/82.svg",
+          "elementalType_1": "electric",
+          "elementalType_2": "steel",
+          "evolution_1": "magnemite",
+          "evolution_2": "magneton",
+          "evolution_3": "magnezone",
+          "height": "10",
+          "weight": "600",
+          "cost": "812",
+          "shipping": "64",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "farfetchd",
+          "index": "83",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/83.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "flying",
+          "evolution_1": "farfetchd",
+          "evolution_2": "sirfetchd",
+          "evolution_3": "",
+          "height": "8",
+          "weight": "150",
+          "cost": "821",
+          "shipping": "61",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "doduo",
+          "index": "84",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/84.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "flying",
+          "evolution_1": "doduo",
+          "evolution_2": "dodrio",
+          "evolution_3": "",
+          "height": "14",
+          "weight": "392",
+          "cost": "967",
+          "shipping": "56",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "dodrio",
+          "index": "85",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/85.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "flying",
+          "evolution_1": "doduo",
+          "evolution_2": "dodrio",
+          "evolution_3": "",
+          "height": "18",
+          "weight": "852",
+          "cost": "596",
+          "shipping": "60",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "seel",
+          "index": "86",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/86.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "seel",
+          "evolution_2": "dewgong",
+          "evolution_3": "",
+          "height": "11",
+          "weight": "900",
+          "cost": "855",
+          "shipping": "56",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "dewgong",
+          "index": "87",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/87.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "ice",
+          "evolution_1": "seel",
+          "evolution_2": "dewgong",
+          "evolution_3": "",
+          "height": "17",
+          "weight": "1200",
+          "cost": "555",
+          "shipping": "57",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "grimer",
+          "index": "88",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/88.svg",
+          "elementalType_1": "poison",
+          "elementalType_2": "",
+          "evolution_1": "grimer",
+          "evolution_2": "muk",
+          "evolution_3": "",
+          "height": "9",
+          "weight": "300",
+          "cost": "571",
+          "shipping": "66",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "muk",
+          "index": "89",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/89.svg",
+          "elementalType_1": "poison",
+          "elementalType_2": "",
+          "evolution_1": "grimer",
+          "evolution_2": "muk",
+          "evolution_3": "",
+          "height": "12",
+          "weight": "300",
+          "cost": "562",
+          "shipping": "58",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "shellder",
+          "index": "90",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/90.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "shellder",
+          "evolution_2": "cloyster",
+          "evolution_3": "",
+          "height": "3",
+          "weight": "40",
+          "cost": "620",
+          "shipping": "50",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "cloyster",
+          "index": "91",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/91.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "ice",
+          "evolution_1": "shellder",
+          "evolution_2": "cloyster",
+          "evolution_3": "",
+          "height": "15",
+          "weight": "1325",
+          "cost": "762",
+          "shipping": "67",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "gastly",
+          "index": "92",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/92.svg",
+          "elementalType_1": "ghost",
+          "elementalType_2": "poison",
+          "evolution_1": "gastly",
+          "evolution_2": "haunter",
+          "evolution_3": "gengar",
+          "height": "13",
+          "weight": "1",
+          "cost": "876",
+          "shipping": "63",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "haunter",
+          "index": "93",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/93.svg",
+          "elementalType_1": "ghost",
+          "elementalType_2": "poison",
+          "evolution_1": "gastly",
+          "evolution_2": "haunter",
+          "evolution_3": "gengar",
+          "height": "16",
+          "weight": "1",
+          "cost": "694",
+          "shipping": "53",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "gengar",
+          "index": "94",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/94.svg",
+          "elementalType_1": "ghost",
+          "elementalType_2": "poison",
+          "evolution_1": "gastly",
+          "evolution_2": "haunter",
+          "evolution_3": "gengar",
+          "height": "15",
+          "weight": "405",
+          "cost": "821",
+          "shipping": "68",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "onix",
+          "index": "95",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/95.svg",
+          "elementalType_1": "rock",
+          "elementalType_2": "ground",
+          "evolution_1": "onix",
+          "evolution_2": "steelix",
+          "evolution_3": "",
+          "height": "88",
+          "weight": "2100",
+          "cost": "875",
+          "shipping": "63",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "drowzee",
+          "index": "96",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/96.svg",
+          "elementalType_1": "psychic",
+          "elementalType_2": "",
+          "evolution_1": "drowzee",
+          "evolution_2": "hypno",
+          "evolution_3": "",
+          "height": "10",
+          "weight": "324",
+          "cost": "539",
+          "shipping": "67",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "hypno",
+          "index": "97",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/97.svg",
+          "elementalType_1": "psychic",
+          "elementalType_2": "",
+          "evolution_1": "drowzee",
+          "evolution_2": "hypno",
+          "evolution_3": "",
+          "height": "16",
+          "weight": "756",
+          "cost": "945",
+          "shipping": "52",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "krabby",
+          "index": "98",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/98.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "krabby",
+          "evolution_2": "kingler",
+          "evolution_3": "",
+          "height": "4",
+          "weight": "65",
+          "cost": "714",
+          "shipping": "62",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "kingler",
+          "index": "99",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/99.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "krabby",
+          "evolution_2": "kingler",
+          "evolution_3": "",
+          "height": "13",
+          "weight": "600",
+          "cost": "718",
+          "shipping": "64",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "voltorb",
+          "index": "100",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/100.svg",
+          "elementalType_1": "electric",
+          "elementalType_2": "",
+          "evolution_1": "voltorb",
+          "evolution_2": "electrode",
+          "evolution_3": "",
+          "height": "5",
+          "weight": "104",
+          "cost": "757",
+          "shipping": "57",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "electrode",
+          "index": "101",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/101.svg",
+          "elementalType_1": "electric",
+          "elementalType_2": "",
+          "evolution_1": "voltorb",
+          "evolution_2": "electrode",
+          "evolution_3": "",
+          "height": "12",
+          "weight": "666",
+          "cost": "957",
+          "shipping": "65",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "exeggcute",
+          "index": "102",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/102.svg",
+          "elementalType_1": "grass",
+          "elementalType_2": "psychic",
+          "evolution_1": "exeggcute",
+          "evolution_2": "exeggutor",
+          "evolution_3": "",
+          "height": "4",
+          "weight": "25",
+          "cost": "714",
+          "shipping": "57",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "exeggutor",
+          "index": "103",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/103.svg",
+          "elementalType_1": "grass",
+          "elementalType_2": "psychic",
+          "evolution_1": "exeggcute",
+          "evolution_2": "exeggutor",
+          "evolution_3": "",
+          "height": "20",
+          "weight": "1200",
+          "cost": "645",
+          "shipping": "54",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "cubone",
+          "index": "104",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/104.svg",
+          "elementalType_1": "ground",
+          "elementalType_2": "",
+          "evolution_1": "cubone",
+          "evolution_2": "marowak",
+          "evolution_3": "",
+          "height": "4",
+          "weight": "65",
+          "cost": "564",
+          "shipping": "68",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "marowak",
+          "index": "105",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/105.svg",
+          "elementalType_1": "ground",
+          "elementalType_2": "",
+          "evolution_1": "cubone",
+          "evolution_2": "marowak",
+          "evolution_3": "",
+          "height": "10",
+          "weight": "450",
+          "cost": "781",
+          "shipping": "63",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "hitmonlee",
+          "index": "106",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/106.svg",
+          "elementalType_1": "fighting",
+          "elementalType_2": "",
+          "evolution_1": "tyrogue",
+          "evolution_2": "hitmonlee",
+          "evolution_3": "",
+          "height": "15",
+          "weight": "498",
+          "cost": "773",
+          "shipping": "61",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "hitmonchan",
+          "index": "107",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/107.svg",
+          "elementalType_1": "fighting",
+          "elementalType_2": "",
+          "evolution_1": "tyrogue",
+          "evolution_2": "hitmonlee",
+          "evolution_3": "",
+          "height": "14",
+          "weight": "502",
+          "cost": "858",
+          "shipping": "50",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "lickitung",
+          "index": "108",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/108.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "",
+          "evolution_1": "lickitung",
+          "evolution_2": "lickilicky",
+          "evolution_3": "",
+          "height": "12",
+          "weight": "655",
+          "cost": "1000",
+          "shipping": "61",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "koffing",
+          "index": "109",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/109.svg",
+          "elementalType_1": "poison",
+          "elementalType_2": "",
+          "evolution_1": "koffing",
+          "evolution_2": "weezing",
+          "evolution_3": "",
+          "height": "6",
+          "weight": "10",
+          "cost": "948",
+          "shipping": "61",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "weezing",
+          "index": "110",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/110.svg",
+          "elementalType_1": "poison",
+          "elementalType_2": "",
+          "evolution_1": "koffing",
+          "evolution_2": "weezing",
+          "evolution_3": "",
+          "height": "12",
+          "weight": "95",
+          "cost": "872",
+          "shipping": "64",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "rhyhorn",
+          "index": "111",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/111.svg",
+          "elementalType_1": "ground",
+          "elementalType_2": "rock",
+          "evolution_1": "rhyhorn",
+          "evolution_2": "rhydon",
+          "evolution_3": "rhyperior",
+          "height": "10",
+          "weight": "1150",
+          "cost": "621",
+          "shipping": "51",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "rhydon",
+          "index": "112",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/112.svg",
+          "elementalType_1": "ground",
+          "elementalType_2": "rock",
+          "evolution_1": "rhyhorn",
+          "evolution_2": "rhydon",
+          "evolution_3": "rhyperior",
+          "height": "19",
+          "weight": "1200",
+          "cost": "728",
+          "shipping": "66",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "chansey",
+          "index": "113",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/113.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "",
+          "evolution_1": "happiny",
+          "evolution_2": "chansey",
+          "evolution_3": "blissey",
+          "height": "11",
+          "weight": "346",
+          "cost": "533",
+          "shipping": "58",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "tangela",
+          "index": "114",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/114.svg",
+          "elementalType_1": "grass",
+          "elementalType_2": "",
+          "evolution_1": "tangela",
+          "evolution_2": "tangrowth",
+          "evolution_3": "",
+          "height": "10",
+          "weight": "350",
+          "cost": "924",
+          "shipping": "62",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "kangaskhan",
+          "index": "115",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/115.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "",
+          "evolution_1": "kangaskhan",
+          "evolution_2": "",
+          "evolution_3": "",
+          "height": "22",
+          "weight": "800",
+          "cost": "715",
+          "shipping": "55",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "horsea",
+          "index": "116",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/116.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "horsea",
+          "evolution_2": "seadra",
+          "evolution_3": "kingdra",
+          "height": "4",
+          "weight": "80",
+          "cost": "537",
+          "shipping": "52",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "seadra",
+          "index": "117",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/117.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "horsea",
+          "evolution_2": "seadra",
+          "evolution_3": "kingdra",
+          "height": "12",
+          "weight": "250",
+          "cost": "905",
+          "shipping": "59",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "goldeen",
+          "index": "118",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/118.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "goldeen",
+          "evolution_2": "seaking",
+          "evolution_3": "",
+          "height": "6",
+          "weight": "150",
+          "cost": "534",
+          "shipping": "69",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "seaking",
+          "index": "119",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/119.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "goldeen",
+          "evolution_2": "seaking",
+          "evolution_3": "",
+          "height": "13",
+          "weight": "390",
+          "cost": "873",
+          "shipping": "63",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "staryu",
+          "index": "120",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/120.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "staryu",
+          "evolution_2": "starmie",
+          "evolution_3": "",
+          "height": "8",
+          "weight": "345",
+          "cost": "855",
+          "shipping": "51",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "starmie",
+          "index": "121",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/121.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "psychic",
+          "evolution_1": "staryu",
+          "evolution_2": "starmie",
+          "evolution_3": "",
+          "height": "11",
+          "weight": "800",
+          "cost": "543",
+          "shipping": "60",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "mr-mime",
+          "index": "122",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/122.svg",
+          "elementalType_1": "psychic",
+          "elementalType_2": "fairy",
+          "evolution_1": "mime-jr",
+          "evolution_2": "mr-mime",
+          "evolution_3": "mr-rime",
+          "height": "13",
+          "weight": "545",
+          "cost": "568",
+          "shipping": "53",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "scyther",
+          "index": "123",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/123.svg",
+          "elementalType_1": "bug",
+          "elementalType_2": "flying",
+          "evolution_1": "scyther",
+          "evolution_2": "scizor",
+          "evolution_3": "",
+          "height": "15",
+          "weight": "560",
+          "cost": "724",
+          "shipping": "60",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "jynx",
+          "index": "124",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/124.svg",
+          "elementalType_1": "ice",
+          "elementalType_2": "psychic",
+          "evolution_1": "smoochum",
+          "evolution_2": "jynx",
+          "evolution_3": "",
+          "height": "14",
+          "weight": "406",
+          "cost": "914",
+          "shipping": "54",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "electabuzz",
+          "index": "125",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/125.svg",
+          "elementalType_1": "electric",
+          "elementalType_2": "",
+          "evolution_1": "elekid",
+          "evolution_2": "electabuzz",
+          "evolution_3": "electivire",
+          "height": "11",
+          "weight": "300",
+          "cost": "600",
+          "shipping": "54",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "magmar",
+          "index": "126",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/126.svg",
+          "elementalType_1": "fire",
+          "elementalType_2": "",
+          "evolution_1": "magby",
+          "evolution_2": "magmar",
+          "evolution_3": "magmortar",
+          "height": "13",
+          "weight": "445",
+          "cost": "692",
+          "shipping": "67",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "pinsir",
+          "index": "127",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/127.svg",
+          "elementalType_1": "bug",
+          "elementalType_2": "",
+          "evolution_1": "pinsir",
+          "evolution_2": "",
+          "evolution_3": "",
+          "height": "15",
+          "weight": "550",
+          "cost": "601",
+          "shipping": "68",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "tauros",
+          "index": "128",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/128.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "",
+          "evolution_1": "tauros",
+          "evolution_2": "",
+          "evolution_3": "",
+          "height": "14",
+          "weight": "884",
+          "cost": "519",
+          "shipping": "67",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "magikarp",
+          "index": "129",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/129.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "magikarp",
+          "evolution_2": "gyarados",
+          "evolution_3": "",
+          "height": "9",
+          "weight": "100",
+          "cost": "898",
+          "shipping": "54",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "gyarados",
+          "index": "130",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/130.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "flying",
+          "evolution_1": "magikarp",
+          "evolution_2": "gyarados",
+          "evolution_3": "",
+          "height": "65",
+          "weight": "2350",
+          "cost": "875",
+          "shipping": "69",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "lapras",
+          "index": "131",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/131.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "ice",
+          "evolution_1": "lapras",
+          "evolution_2": "",
+          "evolution_3": "",
+          "height": "25",
+          "weight": "2200",
+          "cost": "778",
+          "shipping": "69",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "ditto",
+          "index": "132",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/132.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "",
+          "evolution_1": "ditto",
+          "evolution_2": "",
+          "evolution_3": "",
+          "height": "3",
+          "weight": "40",
+          "cost": "695",
+          "shipping": "53",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "eevee",
+          "index": "133",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/133.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "",
+          "evolution_1": "eevee",
+          "evolution_2": "vaporeon",
+          "evolution_3": "",
+          "height": "3",
+          "weight": "65",
+          "cost": "803",
+          "shipping": "57",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "vaporeon",
+          "index": "134",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/134.svg",
+          "elementalType_1": "water",
+          "elementalType_2": "",
+          "evolution_1": "eevee",
+          "evolution_2": "vaporeon",
+          "evolution_3": "",
+          "height": "10",
+          "weight": "290",
+          "cost": "977",
+          "shipping": "59",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "jolteon",
+          "index": "135",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/135.svg",
+          "elementalType_1": "electric",
+          "elementalType_2": "",
+          "evolution_1": "eevee",
+          "evolution_2": "vaporeon",
+          "evolution_3": "",
+          "height": "8",
+          "weight": "245",
+          "cost": "836",
+          "shipping": "67",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "flareon",
+          "index": "136",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/136.svg",
+          "elementalType_1": "fire",
+          "elementalType_2": "",
+          "evolution_1": "eevee",
+          "evolution_2": "vaporeon",
+          "evolution_3": "",
+          "height": "9",
+          "weight": "250",
+          "cost": "777",
+          "shipping": "50",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "porygon",
+          "index": "137",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/137.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "",
+          "evolution_1": "porygon",
+          "evolution_2": "porygon2",
+          "evolution_3": "porygon-z",
+          "height": "8",
+          "weight": "365",
+          "cost": "782",
+          "shipping": "59",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "omanyte",
+          "index": "138",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/138.svg",
+          "elementalType_1": "rock",
+          "elementalType_2": "water",
+          "evolution_1": "omanyte",
+          "evolution_2": "omastar",
+          "evolution_3": "",
+          "height": "4",
+          "weight": "75",
+          "cost": "896",
+          "shipping": "68",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "omastar",
+          "index": "139",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/139.svg",
+          "elementalType_1": "rock",
+          "elementalType_2": "water",
+          "evolution_1": "omanyte",
+          "evolution_2": "omastar",
+          "evolution_3": "",
+          "height": "10",
+          "weight": "350",
+          "cost": "692",
+          "shipping": "51",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "kabuto",
+          "index": "140",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/140.svg",
+          "elementalType_1": "rock",
+          "elementalType_2": "water",
+          "evolution_1": "kabuto",
+          "evolution_2": "kabutops",
+          "evolution_3": "",
+          "height": "5",
+          "weight": "115",
+          "cost": "604",
+          "shipping": "67",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "kabutops",
+          "index": "141",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/141.svg",
+          "elementalType_1": "rock",
+          "elementalType_2": "water",
+          "evolution_1": "kabuto",
+          "evolution_2": "kabutops",
+          "evolution_3": "",
+          "height": "13",
+          "weight": "405",
+          "cost": "684",
+          "shipping": "56",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "aerodactyl",
+          "index": "142",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/142.svg",
+          "elementalType_1": "rock",
+          "elementalType_2": "flying",
+          "evolution_1": "aerodactyl",
+          "evolution_2": "",
+          "evolution_3": "",
+          "height": "18",
+          "weight": "590",
+          "cost": "921",
+          "shipping": "68",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "snorlax",
+          "index": "143",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/143.svg",
+          "elementalType_1": "normal",
+          "elementalType_2": "",
+          "evolution_1": "munchlax",
+          "evolution_2": "snorlax",
+          "evolution_3": "",
+          "height": "21",
+          "weight": "4600",
+          "cost": "618",
+          "shipping": "63",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "articuno",
+          "index": "144",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/144.svg",
+          "elementalType_1": "ice",
+          "elementalType_2": "flying",
+          "evolution_1": "articuno",
+          "evolution_2": "",
+          "evolution_3": "",
+          "height": "17",
+          "weight": "554",
+          "cost": "758",
+          "shipping": "66",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "zapdos",
+          "index": "145",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/145.svg",
+          "elementalType_1": "electric",
+          "elementalType_2": "flying",
+          "evolution_1": "zapdos",
+          "evolution_2": "",
+          "evolution_3": "",
+          "height": "16",
+          "weight": "526",
+          "cost": "774",
+          "shipping": "64",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "moltres",
+          "index": "146",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/146.svg",
+          "elementalType_1": "fire",
+          "elementalType_2": "flying",
+          "evolution_1": "moltres",
+          "evolution_2": "",
+          "evolution_3": "",
+          "height": "20",
+          "weight": "600",
+          "cost": "922",
+          "shipping": "63",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "dratini",
+          "index": "147",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/147.svg",
+          "elementalType_1": "dragon",
+          "elementalType_2": "",
+          "evolution_1": "dratini",
+          "evolution_2": "dragonair",
+          "evolution_3": "dragonite",
+          "height": "18",
+          "weight": "33",
+          "cost": "711",
+          "shipping": "54",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "dragonair",
+          "index": "148",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/148.svg",
+          "elementalType_1": "dragon",
+          "elementalType_2": "",
+          "evolution_1": "dratini",
+          "evolution_2": "dragonair",
+          "evolution_3": "dragonite",
+          "height": "40",
+          "weight": "165",
+          "cost": "551",
+          "shipping": "66",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "dragonite",
+          "index": "149",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/149.svg",
+          "elementalType_1": "dragon",
+          "elementalType_2": "flying",
+          "evolution_1": "dratini",
+          "evolution_2": "dragonair",
+          "evolution_3": "dragonite",
+          "height": "22",
+          "weight": "2100",
+          "cost": "548",
+          "shipping": "61",
+          "availability": false
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "mewtwo",
+          "index": "150",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/150.svg",
+          "elementalType_1": "psychic",
+          "elementalType_2": "",
+          "evolution_1": "mewtwo",
+          "evolution_2": "",
+          "evolution_3": "",
+          "height": "20",
+          "weight": "1220",
+          "cost": "578",
+          "shipping": "63",
+          "availability": true
+        }
+      },
+      {
+        "type": "pokemon_api",
+        "attributes": {
+          "name": "mew",
+          "index": "151",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/151.svg",
+          "elementalType_1": "psychic",
+          "elementalType_2": "",
+          "evolution_1": "mew",
+          "evolution_2": "",
+          "evolution_3": "",
+          "height": "4",
+          "weight": "40",
+          "cost": "762",
+          "shipping": "65",
+          "availability": true
+        }
+      }
+    ]
+  }

@@ -1,0 +1,12 @@
+.loadingContainer {
+    display: grid;
+    place-items: center;
+    background-color: #ff1112;
+    height: 300px;
+    width: 320px;
+    padding: 7px;
+}
+.loader {
+    height: 30%;
+    width: auto;
+}

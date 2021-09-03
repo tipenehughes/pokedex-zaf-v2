@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: arial;
+    font-size: 0.95rem;
+    font-weight: 500;
+    overflow: hidden;
+    text-transform: capitalize;
+}

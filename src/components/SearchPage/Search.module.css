@@ -1,0 +1,29 @@
+.main {
+    background-color: #ff1112;
+    height: 300px;
+    width: 320px;
+    display: grid;
+    place-items: center;
+}
+
+.container {
+    width: 95%;
+    height: 95%;
+    border: 3px solid #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* Logo */
+
+.logoContainer {
+    margin-bottom: auto;
+    padding-top: 10px;
+}
+
+.logoContainer img {
+    height: 70px;
+    width: auto;
+}

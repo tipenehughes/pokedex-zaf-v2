@@ -1,0 +1,64 @@
+{
+    "data": {
+        "schema": {
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "description": "Name of the pokemon"
+                },
+                "index": {
+                    "type": "string",
+                    "description": "Number of the pokemon"
+                },
+                "image": {
+                    "type": "string",
+                    "description": "Image of the pokemon"
+                },
+                "elementalType_1": {
+                    "type": "string",
+                    "description": "First pokemon elemental type"
+                },
+                "elementalType_2": {
+                    "type": "string",
+                    "description": "Second pokemon elemental type"
+                },
+                "evolution_1": {
+                    "type": "string",
+                    "description": "First evolution"
+                },
+                "evolution_2": {
+                    "type": "string",
+                    "description": "Second evolution"
+                },
+                "evolution_3": {
+                    "type": "string",
+                    "description": "Third evolution"
+                },
+                "height": {
+                    "type": "string",
+                    "description": "Height of pokemon"
+                },
+                "weight": {
+                    "type": "string",
+                    "description": "Weight of pokemon"
+                },
+                "cost": {
+                    "type": "string",
+                    "description": "Cost of pokemon"
+                },
+                "shipping": {
+                    "type": "string",
+                    "description": "Cost of shipping"
+                },
+                "availability": {
+                    "type": "boolean",
+                    "description": "Availability of the pokemon"
+                }
+            },
+            "required": [
+                "name",
+                "index"
+            ]
+        }
+    }
+}
