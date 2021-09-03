@@ -4,9 +4,9 @@
 
 -   npm install
 -   npm run watch
--   zat server -p dist
+-   zcli apps:server ./dist
 
 ### To package for install:
 
 -   npm run build
--   zat package -p dist
+-   zcli apps:package ./dist
